@@ -1,0 +1,19 @@
+{
+  "name": "first app",
+  "version": "1.0.1",
+  "description": "first app",
+  "main": "first",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepbiswas736/first-app.git"
+  },
+  "author": "Deep and Sanjana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepbiswas736/first-app/issues"
+  },
+  "homepage": "https://github.com/deepbiswas736/first-app#readme"
+}
